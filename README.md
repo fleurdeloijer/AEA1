@@ -1,6 +1,5 @@
 # AEA1
 # Final assignment
 
-[python]
-[python](https://github.com/fleurdeloijer/exam_sep_7/blob/master/exam_Sep_7_2018_finished.ipynb)
+[python](https://colab.research.google.com/drive/1_ZLJ-8Pd_eTH6-f6Zq8gjKVskwGcVfoF#scrollTo=u94NYO1D7327)
 
